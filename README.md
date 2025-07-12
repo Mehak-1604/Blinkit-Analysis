@@ -5,11 +5,11 @@ This project presents a detailed Sales and Outlet Analysis Dashboard for Blinkit
 
 To analyze Blinkit's product performance, outlet efficiency, and sales distribution across locations using a multi-tool stack:
 
-Excel for initial data cleaning and exploration
+• Excel for initial data cleaning and exploration
 
-Python for data manipulation, business query analysis, and verification
+• Python for data manipulation, business query analysis, and verification
 
-Power BI for insightful visual representation and decision-making support
+• Power BI for insightful visual representation and decision-making support
 
 **Tech Stack Used**
 
